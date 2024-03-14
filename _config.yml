@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: I-Jieh Liu, Jack Liu, portfolio-website, computer vision, deep learning  # add your own keywords or leave empty
+keywords: Yung-Hsuan Lai, Franklin, portfolio-website, computer vision, deep learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: "ntu.jpeg" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -76,7 +76,7 @@ github_username: Franklin905 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: yung-hsuan-lai # your LinkedIn user name
+linkedin_username: yung-hsuan-lai-1629a7212 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: rU7n-9YAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
