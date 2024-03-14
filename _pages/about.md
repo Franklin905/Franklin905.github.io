@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher | AI | Deep Learning | Computer Vision
+subtitle: M.S. Graduated Student @ National Taiwan University | Deep Learning | Computer Vision
 
 profile:
   align: right
