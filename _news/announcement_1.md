@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with a M.S. degree from National Taiwan University
+Graduate with a M.S. degree from National Taiwan University! Start working as a research assistant in the same lab!
