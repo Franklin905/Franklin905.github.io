@@ -241,7 +241,8 @@ blockquote {
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          // color: var(--global-theme-color);
+          opacity: 0.5;
         }
       }
     }
