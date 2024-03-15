@@ -11,7 +11,7 @@ profile:
   address: >
       <center>Taipei, Taiwan</center>
       <center>
-          <a href="https://drive.google.com/file/d/1l5TDe6nitKIqoGisLH-Rj9pFs3SORtTN/view?usp=drive_link">Resume</a> | 
+          <a href="https://drive.google.com/file/d/1l5TDe6nitKIqoGisLH-Rj9pFs3SORtTN/view?usp=drive_link">Resume</a>
       </center>
 
 news: true  # includes a list of news items
