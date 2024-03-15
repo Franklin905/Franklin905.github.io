@@ -234,15 +234,45 @@ blockquote {
     font-size: 1.7rem;
 
     a {
+      .fa-envelope-square {
+        color: #c84e3f;
+      }
+
+      .ai-google-scholar-square {
+        color: #4285F4;
+      }
+
+      .fa-github-square {
+        color: #25292e;
+      }
+
+      .fa-linkedin {
+        color: #0077b5;
+      }
+
       i::before {
-        // color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          // color: var(--global-theme-color);
           opacity: 0.5;
+        }
+      }
+    }
+  }
+}
+
+html[data-theme='dark'] {
+  .navbar.navbar-light {
+    .navbar-brand.social {
+      padding-bottom: 0;
+      padding-top: 0;
+      font-size: 1.7rem;
+
+      a {
+        .fa-github-square {
+          color: rgb(38, 152, 186);
         }
       }
     }
